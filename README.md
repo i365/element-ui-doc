@@ -2,7 +2,7 @@
 
 Element-ui.js library, vuejs open source ui Component, vue free ui, vue Element js framework doc.
 
-[Element UI Doc - English](https://develop365.gitlab.io/element-ui-doc/en-US.html#/en-US)
+[Element UI Doc Online - English](https://develop365.gitlab.io/element-ui-doc/en-US.html#/en-US)
 
 [Element 饿了么 UI 文档 - 中文 Chinese](https://develop365.gitlab.io/element-ui-doc/zh-CN.html#/zh-CN)
 
